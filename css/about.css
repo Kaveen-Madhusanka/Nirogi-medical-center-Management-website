@@ -1,0 +1,206 @@
+.clearfix { overflow: auto  }
+
+.all{
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.topbar{
+
+	width: 1000px;
+	background : maroon;
+	
+}
+.topBarLinks{
+
+	float: left;
+
+}
+
+.topBarLinks ul  {
+	margin-left: 0px;
+	margin top: 15px;
+	list-style: none;
+}
+
+.topBarLinks ul li {
+
+	padding: 0 5px;
+	display: inline-block;
+	border-right: 1px solid white;
+
+
+}
+
+.topBarLinks ul li:last-child{
+
+	border: 0;
+}
+.topBarLinks ul li a {
+
+	color: white;
+}
+
+.topBarLinks ul li a:hover {
+	color: orange;
+}
+
+header .logo{
+	margin-top: 30px;
+	margin-left: 40px;
+	float: left;
+}
+
+
+header .logo img{
+	width: 70px;
+}
+
+header .socialmedia ul {
+	list-style: none;
+
+}
+header .socialmedia ul li {
+	display: inline;
+}
+
+header .socialmedia{
+	float: right;
+	margin-top: 50px;
+	margin-right: 20px;
+}
+
+header .socialmedia ul li a {
+	margin-left: 5px;
+	padding: 6px;
+	background: white;
+	color: white;
+	border-radius: 10px;
+	display: inline-block;
+
+
+}
+
+
+header .socialmedia ul li a:hover {
+	background: orange;
+}
+div.logo img{
+	width: 170px;
+}
+
+header .socialmedia ul li a img{
+	width: 30px;
+}
+
+
+nav {
+	margin-top: 20px;
+	background: maroon;
+	text-align: center;
+	border-radius: 5px;
+}
+
+nav ul {
+	list-style: none;
+}
+nav ul li {
+	display: inline;
+}
+
+nav ul li  {
+	color: #fff;
+	text-transform: uppercase;
+	margin-top: 10px; margin-bottom: 10px;
+	margin-left: 40px;margin-right: 40px;
+	display: inline-block;
+	font-size: 30px;
+
+}
+
+body {
+	margin :0 auto;
+	
+	background-repeat:no-repeat;
+	margin :0 auto;
+	background-size: 1000px 720px;
+	background-position: center;
+
+	
+
+
+}
+
+.baner img{
+
+	width: 1010px;
+	height: 460px;
+}
+
+#slider{
+	width: 998px;
+	height: 460px;
+	margin: 20px auto;
+	position: relative;
+	border: 10px solid white;
+	
+}
+
+button{
+	padding: 20px;
+	border: none;
+	background: #37f;
+	font-size: 30px;
+	color: white;
+	position: absolute;
+	top:45%;
+	cursor: pointer;
+
+
+ }
+
+ .next{
+	border-radius: 10px 0px 0px 10px;
+	margin-left: 960px;
+ }
+ .prew{
+	border-radius: 0px 10px 10px 0px;
+ }
+
+.bottomdown{
+
+	width: 1000px;
+	margin-bottom: 0px;
+	height: 220px;
+	background-color:rgb(170, 161, 161);
+
+}
+
+div.object {
+	margin-left: 15px;
+	width:313.33px;
+	float:left;
+	border-right: 1px solid white;
+	text-align: center;
+
+}
+
+div.object:last-child{
+	border:0px;
+}
+
+table {
+	color: white;
+}
+
+table h1 {
+	text-align: center;
+	
+}
+
+.marq {
+	background-color: black;
+}
+
+
+

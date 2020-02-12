@@ -1,0 +1,206 @@
+.clearfix { overflow: auto  }
+
+.all{
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.topbar{
+
+	width: 1000px;
+	background: maroon;
+}
+.topBarLinks{
+
+	float: left;
+
+}
+
+.topBarLinks ul  {
+	margin-left: 0px;
+	margin top: 15px;
+	list-style: none;
+}
+
+.topBarLinks ul li {
+
+	padding: 0 5px;
+	display: inline-block;
+	border-right: 1px solid white;
+
+
+}
+
+.topBarLinks ul li:last-child{
+
+	border: 0;
+}
+.topBarLinks ul li a {
+
+	color: white;
+}
+
+.topBarLinks ul li a:hover {
+	color: orange;
+}
+
+header .logo{
+	margin-top: 30px;
+	margin-left: 40px;
+	float: left;
+}
+
+
+header .logo img{
+	width: 70px;
+}
+
+header .socialmedia ul {
+	list-style: none;
+
+}
+header .socialmedia ul li {
+	display: inline;
+}
+
+header .socialmedia{
+	float: right;
+	margin-top: 50px;
+	margin-right: 20px;
+}
+
+header .socialmedia ul li a {
+	margin-left: 5px;
+	padding: 6px;
+	background: white;
+	color: white;
+	border-radius: 10px;
+	display: inline-block;
+
+
+}
+
+
+header .socialmedia ul li a:hover {
+	background: orange;
+}
+
+div.logo img{
+	width: 170px;
+}
+
+header .socialmedia ul li a img{
+	width: 30px;
+}
+
+nav {
+	margin-top: 20px;
+	background: darkblue; 
+	
+	text-align: center;
+	border-radius: 5px;
+}
+
+nav ul {
+	list-style: none;
+}
+nav ul li {
+	display: inline;
+}
+
+nav ul li  {
+	color: #fff;
+	text-transform: uppercase;
+	margin-top: 10px; margin-bottom: 10px;
+	margin-left: 40px;margin-right: 40px;
+	display: inline-block;
+	font-size: 30px;
+
+}
+
+div.lform {
+	margin-left: 100px;
+
+}
+
+
+div.lform table{
+	
+	margin-top: 50px;
+	 width: 500px;
+}
+
+.bottom {
+	width: 1000px;
+	background-color: #3c3c3c;
+	color: white;
+
+}
+
+div.leftbottom {
+	margin-top: 0px;
+	width: 300px;
+	font-size: 20px;
+	margin-left: 40px;
+}
+
+div.rightbottom {
+	padding-left: 0px;
+	margin-right: 200px;
+}
+
+div.lform table {
+
+	width: 400px;
+}
+
+form {
+	margin-left: 60px;
+	padding-left: 30px;
+	border: solid 1px white;
+	text-align: center;
+	font-size: 30px;
+	background-color: #3c3c3c;
+}
+h1{
+	font-size: 34px;
+	text-align: center;
+}
+.lform table {
+
+	margin-bottom: 68px;
+	margin-left: 38px;
+}
+
+.bottomdown{
+
+	width: 1000px;
+	margin-bottom: 0px;
+	height: 220px;
+	background-color:#777;
+
+}
+
+div.object {
+	margin-left: 15px;
+	width:313.33px;
+	float:left;
+	border-right: 1px solid white;
+	text-align: center;
+
+}
+
+div.object:last-child{
+	border:0px;
+}
+
+table {
+	text-align: left;
+}
+
+
+
+
+
+
+
